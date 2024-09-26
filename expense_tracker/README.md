@@ -1,4 +1,4 @@
-[# 🌟 Expense Tracker CLI 🌟](https://github.com/NyasimiPhilip/roadmapsh/tree/main/expense_tracker)
+# 🌟 Expense Tracker CLI 🌟[link](https://github.com/NyasimiPhilip/roadmapsh/tree/main/expense_tracker)
 
 A simple command-line interface (CLI) tool to track your expenses, categorize them, and manage them across different currencies. This tracker stores all expenses in a local JSON file, allowing for easy data management and portability.
 
