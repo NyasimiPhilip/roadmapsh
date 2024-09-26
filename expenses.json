@@ -1,0 +1,11 @@
+[
+    {
+        "id": 2,
+        "date": "2024-09-26",
+        "description": "Dinner",
+        "amount": 10.0,
+        "category": "General",
+        "currency": "USD",
+        "original_amount": 10.0
+    }
+]
